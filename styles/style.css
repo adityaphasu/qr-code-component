@@ -23,7 +23,7 @@ body{
     min-height: 100%;
     font-family: 'Outfit', sans-serif;
     background-color: var(--light-gray);
-    font-size: 0.9375rem;
+    font-size: 0.9rem;
     padding: 2rem;
     text-align: center;
 }
