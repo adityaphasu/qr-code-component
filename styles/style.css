@@ -33,20 +33,6 @@ img{
     border-radius: 15px;
 }
 
-p,
-h1{
-    overflow-wrap: break-word;
-    margin: 1rem;
-}
-
-
-.container{
-    max-width: 310px;
-    background-color: var(--white);
-    padding: 1rem;
-    border-radius: 15px;
-}
-
 h1{
     color: var(--dark-blue);
     font-size: 1.3rem;
@@ -57,3 +43,19 @@ p{
     color: var(--grayish-blue);
 }
 
+p,
+h1{
+    overflow-wrap: break-word;
+    margin: 1rem;
+}
+
+.text{
+    padding: 0.3rem;
+}
+
+.container{
+    max-width: 310px;
+    background-color: var(--white);
+    padding: 1rem;
+    border-radius: 15px;
+}
